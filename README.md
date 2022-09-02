@@ -25,7 +25,7 @@ Puzzle descriptions and inputs are provided.
 - [Day 15](day15) ★★
 - [Day 16](day16) ★★
 - [Day 17](day17) ★★
-- [Day 18](day18) ☆☆
+- [Day 18](day18) ★★
 - [Day 19](day19) ☆☆
 - [Day 20](day20) ☆☆
 - [Day 21](day21) ☆☆
