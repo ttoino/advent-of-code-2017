@@ -31,5 +31,5 @@ Puzzle descriptions and inputs are provided.
 - [Day 21](day21) ★★
 - [Day 22](day22) ★★
 - [Day 23](day23) ★☆
-- [Day 24](day24) ☆☆
+- [Day 24](day24) ★★
 - [Day 25](day25) ☆☆
