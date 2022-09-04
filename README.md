@@ -32,4 +32,4 @@ Puzzle descriptions and inputs are provided.
 - [Day 22](day22) ★★
 - [Day 23](day23) ★★
 - [Day 24](day24) ★★
-- [Day 25](day25) ☆☆
+- [Day 25](day25) ★★
